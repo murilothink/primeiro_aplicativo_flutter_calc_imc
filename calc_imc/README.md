@@ -1,4 +1,4 @@
-# calc_imc
+# Calc IMC 
 
 A new Flutter project.
 
